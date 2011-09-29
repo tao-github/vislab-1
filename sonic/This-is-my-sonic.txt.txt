@@ -2,4 +2,5 @@ This is my sonic blog
 
 ______________________
 This is a DEV Version
+v-1.0
 _______________________
