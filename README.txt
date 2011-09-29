@@ -1,4 +1,7 @@
 
-REDAME - 29-sep-2011
 
-Do No Readme
+
+__________________--- HELLO WORLD ____________________
+
+
+hello from sonic
